@@ -32,7 +32,7 @@ It showcases perfume products with a beautiful layout and smooth user experience
 
 1. Clone the repository:
 ```
-   git clone https://github.com/yourusername/perfume-static-website.git
+   git clone https://github.com/Kaviya-3016/perfume-static-website.git
 ```
 2. Navigate to the project folder:
 ```
